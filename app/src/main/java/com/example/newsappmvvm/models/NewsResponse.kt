@@ -1,4 +1,4 @@
-package com.example.newsappmvvm.ui
+package com.example.newsappmvvm.models
 
 data class NewsResponse(
     val articles: List<Article>,
